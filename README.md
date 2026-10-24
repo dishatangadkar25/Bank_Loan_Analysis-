@@ -27,12 +27,12 @@ Displays key performance indicators, good loan and bad loan analysis, and loan s
 ### 2. Overview
 Shows funded amount trends by month, state-wise distribution, loan term, employee length, loan purpose, and home ownership.
 
-![Bank Loan Overview Dashboard](05_PowerBI_Dashboard/Screenshots/03_Overview.png)
+![Bank Loan Overview Dashboard](Screenshots/Summary.png)
 
 ### 3. Details
 Provides detailed loan-level records, including loan purpose, home ownership, grade, sub-grade, issue date, funded amount, interest rate, installment, and amount received.
 
-![Bank Loan Details Dashboard](05_PowerBI_Dashboard/Screenshots/02_Details.png)
+![Bank Loan Overview Dashboard](Screenshots/Details.png)
 
 ## Project Files
 - **Domain Knowledge Report:** Background research and understanding of the banking loan domain.
