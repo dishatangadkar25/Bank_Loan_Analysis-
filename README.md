@@ -22,7 +22,7 @@ This project focuses on analyzing bank loan data using SQL and Microsoft Power B
 ### 1. Summary
 Displays key performance indicators, good loan and bad loan analysis, and loan status information.
 
-![Bank Loan Summary Dashboard](05_PowerBI_Dashboard/Screenshots/01_Summary.png)
+https://github.com/dishatangadkar25/Bank_Loan_Analysis-/commit/9ad855441035e585d108e67b7f072d2ba6036789
 
 ### 2. Overview
 Shows funded amount trends by month, state-wise distribution, loan term, employee length, loan purpose, and home ownership.
